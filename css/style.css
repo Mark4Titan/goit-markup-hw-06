@@ -309,6 +309,7 @@ img {
 .connection-list {
   display: flex;
   justify-content: center;
+  margin-top: 16px;
 }
 
 .connection-itam {
@@ -414,7 +415,6 @@ img {
 .team-list {
   display: flex;
   flex-wrap: wrap;
-  margin-bottom: 94px;
 }
 
 .team-item:not(:last-child) {
@@ -1017,7 +1017,7 @@ img {
 .mail-in {
   padding: 15px 16px;
   margin-right: 11px;
-  width: 358px;
+  width: 350px;
   border: 1px solid rgba(255, 255, 255, 0.3);
   border-radius: 4px;
   background-color: transparent;
